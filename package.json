@@ -13,6 +13,20 @@
     "dist",
     "README.md"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbrorAyo/react-image-card-tut.git"
+  },
+  "keywords": [
+    "react",
+    "card"
+  ],
+  "author": "Ayo Kenji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbrorAyo/react-image-card-tut/issues"
+  },
+  "homepage": "https://github.com/AbrorAyo/react-image-card-tut#readme",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
